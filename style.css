@@ -1,0 +1,12 @@
+
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF url("img/selva.jpg") no-repeat right top fixed;
+    color: rgb(255, 0, 0);
+    font-family: 'Arial Black';
+}
